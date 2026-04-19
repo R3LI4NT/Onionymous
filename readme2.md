@@ -6,9 +6,9 @@ Interfaz gráfica unificada para la suite interna HackTools del equipo de Red Te
 
 Agrupa en una sola aplicación los conversores a Faraday, el agrupamiento de vulnerabilidades, la generación de informes y las utilidades sobre la API de Faraday.
 
-![status](https://img.shields.io/badge/status-internal-2A6625?style=flat-square)
-![python](https://img.shields.io/badge/python-3.11%2B-2A6625?style=flat-square)
-![platform](https://img.shields.io/badge/platform-windows-2A6625f?style=flat-square)
+![status](https://img.shields.io/badge/status-internal-21A819?style=flat-square)
+![python](https://img.shields.io/badge/python-3.11%2B-21A819?style=flat-square)
+![platform](https://img.shields.io/badge/platform-windows-21A819?style=flat-square)
 
 </div>
 
