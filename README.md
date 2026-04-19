@@ -10,7 +10,7 @@
   </a>
     <img src="https://img.shields.io/badge/Version-1.0-7821B7.svg">
   </a>
-    <img src="https://img.shields.io/badge/Public-%F0%9F%97%9D%EF%B8%8F-B70000.svg">
+    <img src="https://img.shields.io/badge/OPENSOURCE-7821B7.svg">
   </a>
 </p>
 
