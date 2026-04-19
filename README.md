@@ -4,11 +4,11 @@
 
 <p align="center">
    <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/Language-Rust-B70000.svg">
+    <img src="https://img.shields.io/badge/Language-Rust-7821B7.svg">
   </a>
-    <img src="https://img.shields.io/badge/System-Windows-B70000.svg">
+    <img src="https://img.shields.io/badge/System-Windows-7821B7.svg">
   </a>
-    <img src="https://img.shields.io/badge/Version-1.0-B70000.svg">
+    <img src="https://img.shields.io/badge/Version-1.0-7821B7.svg">
   </a>
     <img src="https://img.shields.io/badge/Public-%F0%9F%97%9D%EF%B8%8F-B70000.svg">
   </a>
