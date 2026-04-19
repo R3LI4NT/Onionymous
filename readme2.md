@@ -15,41 +15,6 @@ Agrupa en una sola aplicación los conversores a Faraday, el agrupamiento de vul
 
 ---
 
-## Características
-
-- **Navegación lateral** con cuatro módulos: Dashboard, Faraday Tools, Agrupamiento y Generar Informes.
-- **Terminal embebida** con tema oscuro, verde neón, cursor parpadeante, soporte de códigos ANSI y entrada interactiva para scripts que piden `input()`.
-- **Iconografía vectorial** dibujada con primitivas de `Canvas`, independiente de las fuentes del sistema.
-- **Ejecución no bloqueante** de los scripts originales como subprocesos, con streaming línea a línea de `stdout` y `stderr`.
-- **Empaquetado con PyInstaller**: un único `.exe` autocontenido que incluye el intérprete de Python y todas las librerías, sin necesidad de tener Python instalado en la máquina destino.
-- **Preserva los scripts originales sin modificaciones**: la GUI es una capa encima del proyecto existente.
-
----
-
-## Capturas
-
-> *Sugerencia: colocar las imágenes en `docs/screenshots/` y referenciarlas aquí.*
-
-| Dashboard | Módulo de categoría | Terminal en ejecución |
-| :-------: | :-----------------: | :-------------------: |
-| `docs/screenshots/dashboard.png` | `docs/screenshots/faraday.png` | `docs/screenshots/terminal.png` |
-
----
-
-## Requisitos
-
-| Componente | Versión sugerida | Notas |
-|---|---|---|
-| Python | 3.11 (también funciona 3.10 / 3.12) | Con Tkinter — incluido en el instalador oficial de Windows. |
-| Sistema operativo | Windows 10 / 11 | Probado en `x64`. El build genera un `.exe` nativo. |
-| Git | Cualquiera reciente | Necesario para `GitPython` y el chequeo de commits contra GitLab. |
-| VPN corporativa | — | Obligatoria para los scripts que consultan GitLab (agrupamiento, informes, traductores). |
-| Visual C++ Redistributable | x64 reciente | Requerido en la máquina destino para el `.exe`. |
-
-El `.exe` final pesa entre 80 MB y 120 MB según versiones de dependencias. No embebe las carpetas `agrupamiento/`, `faraday_tools/`, `report_builder/`, `diccionario/` ni `traductor/`, por lo que **debe convivir en la misma carpeta** que ellas.
-
----
-
 ## Instalación
 
 Clonar el repositorio con submódulos y cambiar al directorio:
