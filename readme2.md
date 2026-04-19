@@ -9,7 +9,6 @@ Agrupa en una sola aplicación los conversores a Faraday, el agrupamiento de vul
 ![status](https://img.shields.io/badge/status-internal-15FF00?style=flat-square)
 ![python](https://img.shields.io/badge/python-3.11%2B-15FF00?style=flat-square)
 ![platform](https://img.shields.io/badge/platform-windows-15FF00f?style=flat-square)
-![license](https://img.shields.io/badge/license-internal-informational?style=flat-square)
 
 </div>
 
