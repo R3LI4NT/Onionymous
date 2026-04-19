@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="230" height="230" alt="RavenRAT" src="https://github.com/user-attachments/assets/b387b471-cd34-4aa4-9497-eb731f64487c" />
+  <img width="260" height="260" alt="Onionymous" src="https://github.com/user-attachments/assets/b387b471-cd34-4aa4-9497-eb731f64487c" />
 </p>
 
 <p align="center">
