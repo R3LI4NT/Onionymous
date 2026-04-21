@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="#english">🇬🇧 English</a> · <a href="#español">🇪🇸 Español</a>
+  <a href="#english">English</a> · <a href="#español">Español</a>
 </p>
 
 ---
