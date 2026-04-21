@@ -124,7 +124,7 @@ Copy-Item -Recurse -Force .\resources .\target\debug\resources
 ### 🤝 Credits
 
 - Developed by [**@R3LI4NT**](https://github.com/R3LI4NT)
-- Built on top of the [Tor Project](https://www.torproject.org/) — this project is not affiliated with or endorsed by the Tor Project
+- Built on top of the [Tor Project](https://www.torproject.org/) 
 - Uses [egui](https://github.com/emilk/egui) for the GUI, [Phosphor Icons](https://phosphoricons.com/) for iconography, [rodio](https://github.com/RustAudio/rodio) for synthesized audio
 
 ### 📜 License
@@ -234,7 +234,7 @@ Copy-Item -Recurse -Force .\resources .\target\debug\resources
 ### 🤝 Créditos
 
 - Desarrollado por [**@R3LI4NT**](https://github.com/R3LI4NT)
-- Construido sobre el [Tor Project](https://www.torproject.org/) — este proyecto no está afiliado ni respaldado por el Tor Project
+- Construido sobre el [Tor Project](https://www.torproject.org/) 
 - Usa [egui](https://github.com/emilk/egui) para la GUI, [Phosphor Icons](https://phosphoricons.com/) para la iconografía, [rodio](https://github.com/RustAudio/rodio) para el audio sintetizado
 
 ### 📜 Licencia
