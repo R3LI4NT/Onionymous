@@ -24,7 +24,7 @@
 
 <a id="english"></a>
 
-## 🇬🇧 English
+## English
 
 ### Overview
 
@@ -136,7 +136,7 @@ MIT. See [LICENSE](LICENSE).
 
 <a id="español"></a>
 
-## 🇪🇸 Español
+## Español
 
 ### Resumen
 
