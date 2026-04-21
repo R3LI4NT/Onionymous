@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/version-1.0.0-8a5cff?style=flat-square" alt="version" />
   <img src="https://img.shields.io/badge/platform-Windows-0078d4?style=flat-square" alt="platform" />
   <img src="https://img.shields.io/badge/built%20with-Rust-CE422B?style=flat-square&logo=rust&logoColor=white" alt="rust" />
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="license" /></a>
   <img src="https://img.shields.io/badge/portable-yes-8a5cff?style=flat-square" alt="portable" />
 </p>
 
