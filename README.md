@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="265" height="260" alt="Onionymous" src="https://github.com/user-attachments/assets/6cab7c7d-9f99-4381-8671-832d3772747a" />
+  <img width="275" height="260" alt="Onionymous" src="https://github.com/user-attachments/assets/6cab7c7d-9f99-4381-8671-832d3772747a" />
 </p>
 
 
