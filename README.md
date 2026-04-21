@@ -19,6 +19,10 @@
   <a href="#english">English</a> · <a href="#español">Español</a>
 </p>
 
+<p align="center">
+  <img width="1371" height="904" alt="Onionymous" src="https://github.com/user-attachments/assets/7ea52062-8dd6-45c2-b6ba-ee24ef9954bf" />
+</p>
+
 ---
 
 <a id="english"></a>
