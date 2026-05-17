@@ -8,8 +8,6 @@
   <em>Un cliente de escritorio moderno para la red Tor, enfocado en privacidad.</em>
 </p>
 
-<p align="center">
-
 [![Rust](https://img.shields.io/badge/Rust-1.78%2B-CE422B?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Version](https://img.shields.io/badge/VERSION-1.1-8A5CFF?style=for-the-badge&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
@@ -18,7 +16,6 @@
 [![i18n](https://img.shields.io/badge/i18n-ES%20%2F%20EN-E11D2E?style=for-the-badge)](#-internationalization)
 [![Portable](https://img.shields.io/badge/Portable-YES-FF6200?style=for-the-badge)](#)
 
-</p>
 
 <p align="center">
   <a href="#english">English</a> · <a href="#español">Español</a>
