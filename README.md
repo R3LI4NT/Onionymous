@@ -234,5 +234,5 @@ MIT. Ver [LICENSE](LICENSE).
 ---
 
 <p align="center">
-  <sub>Made with ☕ and Rust · Hecho con ☕ y Rust</sub>
+  <sub>Developer: #R3LI4NT</sub>
 </p>
