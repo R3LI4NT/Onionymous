@@ -8,6 +8,8 @@
   <em>Un cliente de escritorio moderno para la red Tor, enfocado en privacidad.</em>
 </p>
 
+<p align="center">【 https://r3li4nt.github.io/tools/Onionymous 】</p>
+
 <p align="center">
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-1.78%2B-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
   <a href="#"><img src="https://img.shields.io/badge/VERSION-1.1-8A5CFF?style=for-the-badge&logoColor=white" alt="Version" /></a>
@@ -17,8 +19,6 @@
   <a href="#-internationalization"><img src="https://img.shields.io/badge/i18n-ES%20%2F%20EN-E11D2E?style=for-the-badge" alt="i18n" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portable-YES-FF6200?style=for-the-badge" alt="Portable" /></a>
 </p>
-
-<p align="center">【 https://r3li4nt.github.io/tools/Onionymous 】</p>
 
 <p align="center">
   <a href="#english">English</a> · <a href="#español">Español</a>
