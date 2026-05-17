@@ -271,6 +271,10 @@ Copy-Item -Recurse -Force .\resources .\target\debug\resources
 
 MIT. Ver [LICENSE](LICENSE).
 
+<h1 align="center"></h1>
+
+<img src="https://img.shields.io/badge/r3li4nt.contact@keemail.me-4C1783?style=for-the-badge&logo=gmail&logoColor=white" />
+
 ---
 
 <p align="center">
