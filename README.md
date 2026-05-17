@@ -31,8 +31,7 @@
 
 It is aimed at users who want the privacy and censorship-circumvention benefits of Tor without the complexity of running Tor manually or configuring a SOCKS proxy by hand. Onionymous manages the Tor process for you, watches the bootstrap in real time, rotates identities on demand, and shows connection state and bandwidth at a glance.
 
-<img width="1919" height="1028" alt="Onionymous" src="https://github.com/user-attachments/assets/1f5215f7-c4d8-41ba-98ed-03d6271a1a55" />
-
+<img width="1919" height="1029" alt="Onionymous" src="https://github.com/user-attachments/assets/5a0661f0-eec6-4c5c-a483-024281bfa04f" />
 
 ### ✨ Features (v1.0)
 
