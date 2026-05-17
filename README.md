@@ -221,12 +221,6 @@ cargo build --no-default-features
 Copy-Item -Recurse -Force .\resources .\target\debug\resources
 ```
 
-### 🤝 Créditos
-
-- Desarrollado por [**@R3LI4NT**](https://github.com/R3LI4NT)
-- Construido sobre el [Tor Project](https://www.torproject.org/) 
-- Usa [egui](https://github.com/emilk/egui) para la GUI, [Phosphor Icons](https://phosphoricons.com/) para la iconografía, [rodio](https://github.com/RustAudio/rodio) para el audio sintetizado
-
 ### 📜 Licencia
 
 MIT. Ver [LICENSE](LICENSE).
