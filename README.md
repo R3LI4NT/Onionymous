@@ -37,7 +37,7 @@ It is aimed at users who want the privacy and censorship-circumvention benefits 
 
 <img width="1919" height="1029" alt="Onionymous" src="https://github.com/user-attachments/assets/5a0661f0-eec6-4c5c-a483-024281bfa04f" />
 
-### ✨ Features (v1.0)
+### 🆕 Features (v1.0)
 
 #### 🎯 Connection control
 - **Click-the-orb UX** — the central animated circle *is* the connect/disconnect button. No extra buttons cluttering the dashboard
@@ -90,7 +90,7 @@ It is aimed at users who want the privacy and censorship-circumvention benefits 
 
 <h1 align="center"></h1>
 
-### ✨ Features (v1.1)
+### 🆕 Features (v1.1)
 
 🌐 **TUN/VPN Mode (admin)**
 
@@ -160,7 +160,7 @@ MIT. See [LICENSE](LICENSE).
 
 Está pensado para quienes quieren los beneficios de privacidad y anti-censura de Tor sin la complejidad de correr Tor manualmente o configurar un proxy SOCKS a mano. Onionymous maneja el proceso de Tor por vos, observa el bootstrap en tiempo real, rota identidades cuando lo pedís, y te muestra el estado de conexión y ancho de banda de un vistazo.
 
-### ✨ Características (v1.0)
+### 🆕 Características (v1.0)
 
 #### 🎯 Control de conexión
 - **UX click-en-el-orb** — el círculo animado central *es* el botón de conectar/desconectar. Sin botones extra que ensucien el dashboard
@@ -213,7 +213,7 @@ Está pensado para quienes quieren los beneficios de privacidad y anti-censura d
 
 <h1 align="center"></h1>
 
-### ✨ Características (v1.1)
+### 🆕 Características (v1.1)
 
 🌐 TUN/VPN Mode (admin) 
 
