@@ -84,11 +84,6 @@ It is aimed at users who want the privacy and censorship-circumvention benefits 
 - **Optional minimize-to-tray** on close (off by default to avoid confusing first-time users)
 - **Clean shutdown** button — disconnects Tor, removes the proxy, tears down the kill switch, then exits
 
-### ⚠️ What Onionymous is *not*
-
-- **It is not the Tor Browser.** Onionymous routes your traffic, but it doesn't give you browser-level anti-fingerprinting protections. For web browsing where strong anonymity actually matters, use the Tor Browser
-- **It is not a system-wide VPN.** Apps that ignore the system proxy won't be routed through Tor. Only proxy-aware apps (most modern browsers, many desktop clients) will pass through
-- **It is Windows-only for now.** The core logic is cross-platform Rust, but the packaging, firewall integration, autostart, and DWM blur are Windows-specific
 
 ### 📦 Installation
 
@@ -194,11 +189,6 @@ Está pensado para quienes quieren los beneficios de privacidad y anti-censura d
 - **Minimizar a la bandeja al cerrar** (opcional, desactivado por defecto para no confundir al usuario nuevo)
 - **Botón Salir** — desconecta Tor, saca el proxy, desmonta el kill switch, y cierra la app de forma limpia
 
-### ⚠️ Qué *no* es Onionymous
-
-- **No es el Tor Browser.** Onionymous enruta tu tráfico, pero no te da las protecciones anti-fingerprinting a nivel navegador. Para navegación web donde el anonimato realmente importa, usá el Tor Browser
-- **No es una VPN para todo el sistema.** Las apps que ignoren el proxy del sistema no van a pasar por Tor. Solo las compatibles con proxy (la mayoría de los navegadores modernos, muchos clientes de escritorio) se van a enrutar
-- **Solo Windows por ahora.** La lógica core es Rust multiplataforma, pero el empaquetado, integración con firewall, autostart y blur DWM son específicos de Windows
 
 ### 📦 Instalación
 
