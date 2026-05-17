@@ -9,10 +9,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-8a5cff?style=flat-square" alt="version" />
-  <img src="https://img.shields.io/badge/platform-Windows-0078d4?style=flat-square" alt="platform" />
-  <img src="https://img.shields.io/badge/built%20with-Rust-CE422B?style=flat-square&logo=rust&logoColor=white" alt="rust" />
-  <img src="https://img.shields.io/badge/portable-yes-8a5cff?style=flat-square" alt="portable" />
+
+[![Rust](https://img.shields.io/badge/Rust-1.78%2B-CE422B?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Version](https://img.shields.io/badge/VERSION-1.1-8A5CFF?style=for-the-badge&logoColor=white)](#)
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
+[![Tor](https://img.shields.io/badge/Tor-Network-7D4698?style=for-the-badge&logo=torproject&logoColor=white)](https://www.torproject.org/)
+[![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](#-license)
+[![i18n](https://img.shields.io/badge/i18n-ES%20%2F%20EN-E11D2E?style=for-the-badge)](#-internationalization)
+[![Portable](https://img.shields.io/badge/Portable-YES-FF6200?style=for-the-badge)](#)
+
 </p>
 
 <p align="center">
