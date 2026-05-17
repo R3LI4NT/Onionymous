@@ -33,7 +33,7 @@ It is aimed at users who want the privacy and censorship-circumvention benefits 
 
 <img width="1371" height="907" alt="Onionymous" src="https://github.com/user-attachments/assets/8aa60ec5-17eb-48d8-847e-69ede590dcab" />
 
-### ✨ Features (v1.0.0)
+### ✨ Features (v1.0)
 
 #### 🎯 Connection control
 - **Click-the-orb UX** — the central animated circle *is* the connect/disconnect button. No extra buttons cluttering the dashboard
@@ -132,7 +132,7 @@ MIT. See [LICENSE](LICENSE).
 
 Está pensado para quienes quieren los beneficios de privacidad y anti-censura de Tor sin la complejidad de correr Tor manualmente o configurar un proxy SOCKS a mano. Onionymous maneja el proceso de Tor por vos, observa el bootstrap en tiempo real, rota identidades cuando lo pedís, y te muestra el estado de conexión y ancho de banda de un vistazo.
 
-### ✨ Características (v1.0.0)
+### ✨ Características (v1.0)
 
 #### 🎯 Control de conexión
 - **UX click-en-el-orb** — el círculo animado central *es* el botón de conectar/desconectar. Sin botones extra que ensucien el dashboard
@@ -182,6 +182,28 @@ Está pensado para quienes quieren los beneficios de privacidad y anti-censura d
 - **Iniciar minimizado** cuando arranca por autostart
 - **Minimizar a la bandeja al cerrar** (opcional, desactivado por defecto para no confundir al usuario nuevo)
 - **Botón Salir** — desconecta Tor, saca el proxy, desmonta el kill switch, y cierra la app de forma limpia
+
+
+### ✨ Características (v1.1)
+
+🌐 TUN/VPN Mode (admin) — la feature grande
+
+- **Routing de todo el sistema operativo** a través de Tor, no solo apps proxy-aware. Cualquier programa (incluso los que ignoran el proxy del sistema) pasa por la red Tor cuando este modo está activo
+- **Implementado con Wintun** (driver TUN oficial de WireGuard) + sing-box como motor TUN→SOCKS bridging, ambos embebidos en el .exe
+- **Selector de modo en el home:** Proxy o TUN/VPN — el usuario elige según necesite
+- **Detección automática de admin** — si elegís TUN sin ser admin, te avisa claramente; si la creación del túnel falla por cualquier razón, hace fallback automático a modo Proxy sin romper la conexión
+- **Cleanup robusto** — al desconectar, sing-box se cierra limpio, el adaptador TUN se destruye, las rutas se quitan, y nunca te quedás sin internet
+- **Excluye automáticamente** tor.exe, sing-box.exe, lyrebird.exe y onionymous.exe del túnel para evitar loops infinitos
+- **DNS pre-resuelto** a través de Tor para evitar leaks (reverse_mapping activado en sing-box)
+- **UDP redirigido** a direct-out (Tor no soporta UDP) en lugar de fallar silenciosamente
+
+🌍 Mejoras en el selector de país de salida
+
+Indicadores visuales de disponibilidad en el dropdown:
+
+- **★ Alta disponibilidad** (Germany, Netherlands, US, France, Switzerland, etc.)
+(sin marcador) disponibilidad media
+- **⚠ Pocos exit** nodes, puede fallar (Portugal, Argentina, Israel, Mexico, etc.)
 
 
 ### 📦 Instalación
