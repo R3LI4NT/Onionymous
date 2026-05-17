@@ -18,6 +18,7 @@
   <a href="#-license"><img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge" alt="License" /></a>
   <a href="#-internationalization"><img src="https://img.shields.io/badge/i18n-ES%20%2F%20EN-E11D2E?style=for-the-badge" alt="i18n" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portable-YES-FF6200?style=for-the-badge" alt="Portable" /></a>
+  <img src="https://img.shields.io/github/downloads/R3LI4NT/Onionymous/latest/total?style=for-the-badge&color=8A5CFF&label=Latest%20Release&logo=github&logoColor=white" alt="Latest downloads">
 </p>
 
 <p align="center">
