@@ -84,6 +84,30 @@ It is aimed at users who want the privacy and censorship-circumvention benefits 
 - **Optional minimize-to-tray** on close (off by default to avoid confusing first-time users)
 - **Clean shutdown** button — disconnects Tor, removes the proxy, tears down the kill switch, then exits
 
+<h1 align="center"></h1>
+
+### ✨ Features (v1.1)
+
+🌐 **TUN/VPN Mode (admin)**
+
+- **System-wide routing** through Tor — not just proxy-aware apps. Any program (even ones that ignore the system proxy) goes through the Tor network when this mode is active
+- **Implemented with Wintun** (WireGuard's official TUN driver) + sing-box as the TUN→SOCKS bridging engine, both embedded in the .exe
+- **Mode selector on the home screen:** Proxy or TUN/VPN — the user picks whichever fits the need
+- **Automatic admin detection** — if you pick TUN without admin rights, it warns you clearly; if tunnel creation fails for any reason, it automatically falls back to Proxy mode without breaking the connection
+- **Robust cleanup** — on disconnect, sing-box shuts down cleanly, the TUN adapter is destroyed, routes are removed, and you're never left without internet
+- **Automatic exclusion** of tor.exe, sing-box.exe, lyrebird.exe and onionymous.exe from the tunnel to prevent infinite loops
+- **Pre-resolved DNS** through Tor to prevent leaks (reverse_mapping enabled in sing-box)
+- **UDP redirected** to direct-out (Tor doesn't support UDP) instead of failing silently
+
+🌍 **Exit country selector improvements**
+
+Visual availability indicators in the dropdown:
+
+- **★ High availability** (Germany, Netherlands, US, France, Switzerland, etc.)
+- *(no marker)* Medium availability
+- **⚠ Few exit nodes**, may fail (Portugal, Argentina, Israel, Mexico, etc.)
+
+<h1 align="center"></h1>
 
 ### 📦 Installation
 
@@ -183,10 +207,11 @@ Está pensado para quienes quieren los beneficios de privacidad y anti-censura d
 - **Minimizar a la bandeja al cerrar** (opcional, desactivado por defecto para no confundir al usuario nuevo)
 - **Botón Salir** — desconecta Tor, saca el proxy, desmonta el kill switch, y cierra la app de forma limpia
 
+<h1 align="center"></h1>
 
 ### ✨ Características (v1.1)
 
-🌐 TUN/VPN Mode (admin) — la feature grande
+🌐 TUN/VPN Mode (admin) 
 
 - **Routing de todo el sistema operativo** a través de Tor, no solo apps proxy-aware. Cualquier programa (incluso los que ignoran el proxy del sistema) pasa por la red Tor cuando este modo está activo
 - **Implementado con Wintun** (driver TUN oficial de WireGuard) + sing-box como motor TUN→SOCKS bridging, ambos embebidos en el .exe
@@ -198,13 +223,13 @@ Está pensado para quienes quieren los beneficios de privacidad y anti-censura d
 - **UDP redirigido** a direct-out (Tor no soporta UDP) en lugar de fallar silenciosamente
 
 🌍 Mejoras en el selector de país de salida
-
 Indicadores visuales de disponibilidad en el dropdown:
 
 - **★ Alta disponibilidad** (Germany, Netherlands, US, France, Switzerland, etc.)
 (sin marcador) disponibilidad media
 - **⚠ Pocos exit** nodes, puede fallar (Portugal, Argentina, Israel, Mexico, etc.)
 
+<h1 align="center"></h1>
 
 ### 📦 Instalación
 
