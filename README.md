@@ -8,13 +8,15 @@
   <em>Un cliente de escritorio moderno para la red Tor, enfocado en privacidad.</em>
 </p>
 
-[![Rust](https://img.shields.io/badge/Rust-1.78%2B-CE422B?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Version](https://img.shields.io/badge/VERSION-1.1-8A5CFF?style=for-the-badge&logoColor=white)](#)
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
-[![Tor](https://img.shields.io/badge/Tor-Network-7D4698?style=for-the-badge&logo=torproject&logoColor=white)](https://www.torproject.org/)
-[![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](#-license)
-[![i18n](https://img.shields.io/badge/i18n-ES%20%2F%20EN-E11D2E?style=for-the-badge)](#-internationalization)
-[![Portable](https://img.shields.io/badge/Portable-YES-FF6200?style=for-the-badge)](#)
+<p align="center">
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-1.78%2B-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VERSION-1.1-8A5CFF?style=for-the-badge&logoColor=white" alt="Version" /></a>
+  <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /></a>
+  <a href="https://www.torproject.org/"><img src="https://img.shields.io/badge/Tor-Network-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor" /></a>
+  <a href="#-license"><img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge" alt="License" /></a>
+  <a href="#-internationalization"><img src="https://img.shields.io/badge/i18n-ES%20%2F%20EN-E11D2E?style=for-the-badge" alt="i18n" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portable-YES-FF6200?style=for-the-badge" alt="Portable" /></a>
+</p>
 
 
 <p align="center">
